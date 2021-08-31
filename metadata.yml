@@ -1,0 +1,12 @@
+---
+:id: 83920376
+:submitters:
+- :name: Qiwei Li
+  :email: qiweili@email.arizona.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-07-17 03:51:45.046585000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2021-07-16 20:51:45.046585000 Z
+:status: processed
+:score: 100.0
